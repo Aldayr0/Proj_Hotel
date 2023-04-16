@@ -10,7 +10,7 @@ export default function App() {
   const [versenha, setVersenha] = useState('');
 
   const clicarb = () =>{
-    if((verlogin == 'jose' || verlogin=='jose@hotmail.com') && (versenha == '000')){
+    if((verlogin == 'admin' || verlogin=='admin@hotmail.com') && (versenha == '000')){
       window.alert("Logado com sucesso");
 
     }else if(verlogin == '' && versenha == ''){
@@ -53,6 +53,8 @@ export default function App() {
           <Text style={styles.login}>
             Login
           </Text>
+
+        
 
 
 
