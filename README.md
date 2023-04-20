@@ -1,4 +1,4 @@
-# VerseVenture - Software de Hospedagem de Hotel </br> </br>  🧾 Descrição
+# VerseVenture</br> </br>  🧾 Descrição
  
 
 O VerseVenture é um software desenvolvido em React Native Expo Go com duas telas que simula um sistema de hospedagem de hotel. todo o software é executado em situações específicas.
